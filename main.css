@@ -1,8 +1,11 @@
 .title {
   background-color: grey;
-  font-size: 80 px;
 }
 
 h1 {
   font-size: 45 px;
+}
+
+.recipes {
+  background-color: blue;
 }
