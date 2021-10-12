@@ -1,11 +1,16 @@
 .title {
-  background-color: red;
-}
-
-h1 {
-  font-size: 45 px;
+  background-color: grey;
 }
 
 .recipes {
   background-color: blue;
+}
+
+
+.category {
+  display: inline-flex;
+  margin: 20px;
+
+#cat1 {
+  background-color: green;
 }
